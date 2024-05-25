@@ -11,7 +11,6 @@ This blog documents my stories, life(?) and whatnot, running on jekyll, currentl
 If you have any questions, I don't care.
 
 
-**placeholder ✨**
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+
+
