@@ -21,7 +21,7 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://aestheticnonsense.pages.dev" #
+url: "https://aestheticnonsense.vercel.app" #
 baseurl:
 permalink: /:title/
 google_analytics:  
